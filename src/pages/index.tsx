@@ -8,6 +8,7 @@ export default function Home() {
 
     <Seo title="" desciption='la descrption de ma page' />
      <h1 className='text-3xl'>Hellow Worl</h1>
+     verifier remote
       
    </>
   )

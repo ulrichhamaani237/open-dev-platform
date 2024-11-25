@@ -165,9 +165,7 @@ module.exports = {
 				danger: "#FF4E4E",
 				success: "#90DA1",
 				warning: "#FEB72F",
-			},
-			love: '#F4B6'
-
+			}
 			
 		},
 
